@@ -1,0 +1,14 @@
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\bin\Debug\net6.0\InjecaoDependenciaSozinho.exe
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\bin\Debug\net6.0\InjecaoDependenciaSozinho.deps.json
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\bin\Debug\net6.0\InjecaoDependenciaSozinho.runtimeconfig.json
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\bin\Debug\net6.0\InjecaoDependenciaSozinho.dll
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\bin\Debug\net6.0\InjecaoDependenciaSozinho.pdb
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\obj\Debug\net6.0\InjecaoDependenciaSozinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\obj\Debug\net6.0\InjecaoDependenciaSozinho.AssemblyInfoInputs.cache
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\obj\Debug\net6.0\InjecaoDependenciaSozinho.AssemblyInfo.cs
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\obj\Debug\net6.0\InjecaoDependenciaSozinho.csproj.CoreCompileInputs.cache
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\obj\Debug\net6.0\InjecaoDependenciaSozinho.dll
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\obj\Debug\net6.0\refint\InjecaoDependenciaSozinho.dll
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\obj\Debug\net6.0\InjecaoDependenciaSozinho.pdb
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\obj\Debug\net6.0\InjecaoDependenciaSozinho.genruntimeconfig.cache
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaSozinho\InjecaoDependenciaSozinho\obj\Debug\net6.0\ref\InjecaoDependenciaSozinho.dll

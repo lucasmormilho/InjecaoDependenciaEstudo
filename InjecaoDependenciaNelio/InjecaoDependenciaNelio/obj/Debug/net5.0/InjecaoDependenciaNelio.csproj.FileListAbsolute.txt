@@ -1,0 +1,16 @@
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\bin\Debug\net5.0\InjecaoDependenciaNelio.exe
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\bin\Debug\net5.0\InjecaoDependenciaNelio.deps.json
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\bin\Debug\net5.0\InjecaoDependenciaNelio.runtimeconfig.json
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\bin\Debug\net5.0\InjecaoDependenciaNelio.runtimeconfig.dev.json
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\bin\Debug\net5.0\InjecaoDependenciaNelio.dll
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\bin\Debug\net5.0\InjecaoDependenciaNelio.pdb
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\obj\Debug\net5.0\InjecaoDependenciaNelio.csproj.AssemblyReference.cache
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\obj\Debug\net5.0\InjecaoDependenciaNelio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\obj\Debug\net5.0\InjecaoDependenciaNelio.AssemblyInfoInputs.cache
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\obj\Debug\net5.0\InjecaoDependenciaNelio.AssemblyInfo.cs
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\obj\Debug\net5.0\InjecaoDependenciaNelio.csproj.CoreCompileInputs.cache
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\obj\Debug\net5.0\InjecaoDependenciaNelio.dll
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\obj\Debug\net5.0\refint\InjecaoDependenciaNelio.dll
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\obj\Debug\net5.0\InjecaoDependenciaNelio.pdb
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\obj\Debug\net5.0\InjecaoDependenciaNelio.genruntimeconfig.cache
+C:\Aulas\InjecaoDependencia\InjecaoDependenciaNelio\InjecaoDependenciaNelio\obj\Debug\net5.0\ref\InjecaoDependenciaNelio.dll
